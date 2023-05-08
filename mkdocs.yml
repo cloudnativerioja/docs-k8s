@@ -1,0 +1,54 @@
+site_name: Documentación Cloud Native Rioja
+#site_url:
+site_description: Proyecto de documentación de monográficos de kubernetes
+repo_name: cloudnativerioja/monograficos-k8s
+
+repo_url: https://github.com/cloudnativerioja/monograficos-k8s
+nav:
+  - Inicio: "index.md"
+  - Monográficos:
+      - "monograficos/Inicio.md"
+  - Tutoriales:
+      - "tutoriales/Inicio.md"
+  - Charlas:
+      - "charlas/Inicio.md"
+plugins:
+  - search:
+      lang: es
+theme:
+  name: material
+  logo: assets/Kubernetes_logo.png
+  favicon: assets/favicon.ico
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: cyan
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: cyan
+      accent: indigo
+  font:
+    text: Roboto
+  features:
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+  icon:
+    repo: fontawesome/brands/github
+  language: es
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cloudnativerioja
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/cloud-native-rioja
+
+copyright: Copyright &copy; 2023 Cloud Native Rioja
