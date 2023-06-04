@@ -1,7 +1,7 @@
 site_name: Docs
 site_url: https://docs.cloudnativerioja.com/
 site_description: Proyecto de documentación de monográficos de kubernetes
-repo_name: cloudnativerioja/monograficos-k8s
+repo_name: cloudnativerioja/docs-k8s
 
 repo_url: https://github.com/cloudnativerioja/docs-k8s
 nav:
