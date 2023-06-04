@@ -12,6 +12,8 @@ nav:
       - "tutoriales/Inicio.md"
   - Charlas:
       - "charlas/Inicio.md"
+  - Recursos:
+      - "recursos/Recursos.md"
 plugins:
   - search:
       lang: es
@@ -50,5 +52,7 @@ extra:
       link: https://github.com/cloudnativerioja
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/cloud-native-rioja
-
+markdown_extensions:
+  - attr_list
+  
 copyright: Copyright &copy; 2023 Cloud Native Rioja
