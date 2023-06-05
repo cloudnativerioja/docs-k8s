@@ -4,10 +4,11 @@ Repositorio para documentación de kubernetes y su ecosistema del Community Grou
 
 ## Requisitos
 
-Tener mkdocs instalado
+Tener mkdocs y mkdocs-material instalado
 
 ```bash
 pip install mkdocs
+pip install mkdocs-material
 ```
 
 ## Uso
