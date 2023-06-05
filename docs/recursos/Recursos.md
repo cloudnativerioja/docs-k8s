@@ -21,3 +21,8 @@ Aquí podrás encontrar algunos recursos gráficos y demás contenido para poder
 
 ![Cloud Native Rioja transparente](./assets/logo-cnr.-vectorial.svg)
 [SVG](./assets/logo-cnr.-vectorial.svg){ .md-button }
+
+## Logo Background
+
+![Cloud Native Rioja background](./assets/background.png)
+[PNG](./assets/background.png){ .md-button }
