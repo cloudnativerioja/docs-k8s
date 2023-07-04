@@ -1,13 +1,11 @@
 site_name: Docs
 site_url: https://docs.cloudnativerioja.com/
-site_description: Proyecto de documentación de monográficos de kubernetes
+site_description: Proyecto de documentación de Cloud Native Rioja
 repo_name: cloudnativerioja/docs-k8s
 
 repo_url: https://github.com/cloudnativerioja/docs-k8s
 nav:
   - Inicio: "index.md"
-  - Monográficos:
-      - "monograficos/Inicio.md"
   - Tutoriales:
       - "tutoriales/Inicio.md"
   - Charlas:
@@ -54,5 +52,5 @@ extra:
       link: https://www.linkedin.com/company/cloud-native-rioja
 markdown_extensions:
   - attr_list
-  
+
 copyright: Copyright &copy; 2023 Cloud Native Rioja
