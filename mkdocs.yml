@@ -8,6 +8,8 @@ nav:
   - Inicio: "index.md"
   - Tutoriales:
       - "tutoriales/Inicio.md"
+      - "tutoriales/Creación_de_un_cluster_de_Kubernetes_con_CIVO_y_Terraform.md"
+      - "tutoriales/Encriptar_y_desencriptar_secrets_con_Sealed_Secrets.md"
   - Charlas:
       - "charlas/Inicio.md"
   - Recursos:
